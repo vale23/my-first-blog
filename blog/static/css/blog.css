@@ -1,5 +1,41 @@
 
-h1 a {
-      color: #FCA205;
-      font-family: 'Lobster';
+.page-header {
+          background-color: #000000;
+          margin-top: 0;
+          padding: 20px 20px 20px 40px;
   }
+
+.post-form textarea, .post-form input {
+        width: 100%;
+  }
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+    color: #000000;
+    width:100%;
+}
+
+.post h1 a, .post h1 a:visited {
+        color: #DC143C;
+        font-family: 'Lobster'
+
+}
+
+body {
+            padding-left: 15px;
+}
+
+btn btn-default{
+  color: #FF69B4;
+}
+
+.date {
+      font-family: 'Lobster';
+}
